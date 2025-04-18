@@ -155,5 +155,7 @@ function unDo() {
 ```
 ## OUTPUT:
 
+![alt text](galleryoutput.png)
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
